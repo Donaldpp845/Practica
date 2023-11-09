@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor{
+    background-color: aqua;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.titulo-panel{
+    margin: 10px;
+  font-style: normal;
+  text-decoration: none;
+  
+}
